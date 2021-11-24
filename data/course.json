@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a6e526cd-bd4e-23c3-79c4-08e53fa35c4a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Network and Computer Security",
+  "course_description": "_6.857_ _Network and Computer Security_\u00a0is an upper-level undergraduate, first-year graduate course on network and computer security. It fits within the Computer Systems and Architecture Engineering concentration.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.857",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
